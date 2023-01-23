@@ -34,8 +34,9 @@
               cette pompe au mieux en termes de rendement, et ceci, en fonction
               de sa région d'installation. </p>
             <ul class="actions">
-              <li style="text-align: center;"><a href="#" class="button big" style="margin-left: 451px; width: 220px;">découvrez
-                  Notre équipe</a></li>
+              <li style="text-align: center;"><a href="Notreequipe.html" class="button big"
+                  style="margin-left: 451px; width: 220px;">découvrez Notre
+                  équipe</a></li>
             </ul>
           </div>
           <span class="image object"></span> </section>
@@ -131,7 +132,7 @@
                 pour savoir quel type de panneaux et de cellules notre
                 simulateur considèrerait.</p>
               <ul class="actions">
-                <li><a href="Panneauxsolaires.html" class="button" target="_blank">en
+                <li><a href="Panneauxsolaires.html" class="button" target="_top">en
                     savoir plus</a></li>
               </ul>
             </article>
