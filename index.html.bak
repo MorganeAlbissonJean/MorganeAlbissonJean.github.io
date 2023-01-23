@@ -34,7 +34,8 @@
               cette pompe au mieux en termes de rendement, et ceci, en fonction
               de sa région d'installation. </p>
             <ul class="actions">
-              <li style="text-align: center;"><a href="Notreequipe.html" class="button big"
+              <li style="text-align: center;"><a href="Notreequipe.html" class="button big"
+
                   style="margin-left: 451px; width: 220px;">découvrez Notre
                   équipe</a></li>
             </ul>
@@ -47,49 +48,35 @@
               projet</h2>
           </header>
           <div class="features">
-            <article> <span class="icon fa-gem" style="width: 107px; margin-left: 30px;"></span>
-              <div class="content">
-                <h3 style="margin-left: 68px;">Un simulateur simple
-                  d'utilisation </h3>
-                <p style="margin-left: 67px; width: 843px;">Avec notre
-                  simulateur, pas de prise de tête ! Les seuls paramètres
-                  nécessaires à son exécution sont la superficie utilisable dont
-                  vous disposez, la localisation de cet emplacement ainsi que
-                  votre budget !</p>
+            <article> <span class="icon fa-gem" style="width: 107px; margin-left: 31px; margin-top: -174px;"></span>
+              <div class="content" style="margin-top: 4px; margin-left: 42px; width: 448px;">&nbsp;<br>
               </div>
             </article>
-            <article> <span class="icon solid fa-paper-plane" style="margin-left: 31px; height: 108px; margin-top: 144px;"></span><span
-                class="icon solid fa-rocket" style="margin-left: -131px; width: 107px; margin-top: -157px; height: 107px;"></span>
-              <div class="content" style="margin-top: -159px;">
-                <h3 style="margin-left: 66px;">Notre public cible</h3>
-                <h3 style="margin-left: 67px;"></h3>
-                <p style="margin-left: 66px; width: 842px;">Propriétaires
-                  d'exploitations agricoles souhaitant installer ou remettre à
-                  neuf un système de pompage d'eau (pour l'irrigation par
-                  exemple), si vous ignorez vers quel système d'alimentation
-                  vous tourner, notre simulateur pourrait vous aider !</p>
+            <article> <span class="icon solid fa-paper-plane" style="margin-left: -760px; width: 189px; height: 132px; margin-top: 106px;"></span><span
+
+                class="icon solid fa-rocket" style="margin-left: -760px; width: 189px; margin-top: 106px; height: 132px;"></span>
+              <div class="content" style="margin-top: -159px;"> <br>
+                <p style="margin-left: 25px; width: 883px; margin-top: -33px;"><br>
+                </p>
               </div>
             </article>
             <article> <br>
-              <div class="content" style="margin-top: -222px; margin-left: 166px; height: 46px;">
-                <h3 style="margin-left: 63px;">Les solutions proposées</h3>
-                <p style="margin-left: 64px; width: 851px;">Notre simulateur
-                  s'attelle à vous proposer un comparatif entre groupe
-                  électrogène, éoliennes, et panneaux solaires. Il vous permet
-                  d'évaluer les variations de rendement, de coût et de
-                  durabilité pour chaque solution technique.</p>
+              <div class="content" style="margin-top: -222px; margin-left: 166px; height: 46px;"><br>
+              </div>
+              <div class="content" style="margin-top: -222px; margin-left: 166px; height: 46px;"><br>
+              </div>
+              <div class="content" style="margin-top: -222px; margin-left: 166px; height: 46px;"><br>
+              </div>
+              <div class="content" style="margin-top: -222px; margin-left: 166px; height: 46px;"><br>
+              </div>
+              <div class="content" style="margin-top: -222px; margin-left: 166px; height: 46px;"><br>
+              </div>
+              <div class="content" style="margin-top: -222px; margin-left: 166px; height: 46px;"><br>
               </div>
             </article>
-            <article> <span class="icon solid fa-signal" style="margin-left: 31px; margin-top: -79px;"></span>
-              <div class="content" style="margin-top: -41px; height: 129px;">
-                <h3 style="margin-left: 63px;">Et pour la suite ?</h3>
-                <p style="margin-left: 63px; width: 838px;">Une fois notre
-                  simulateur complet, nous pourrions envisager des améliorations
-                  dirigées vers un public plus large, effectuant la même
-                  comparaison entre les énergies prises en compte par notre
-                  simulateur, mais appliquée à d'autres systèmes (éclairage de
-                  rue, chauffage domestique,...) Nous saurons également être
-                  attentifs à vos retours !</p>
+            <article> <span class="icon solid fa-signal" style="margin-left: 31px; margin-top: 22px;"></span>
+              <div class="content" style="margin-top: -41px; height: 129px;"><br>
+                <br>
               </div>
             </article>
           </div>
@@ -165,19 +152,24 @@
             </article>
             <article>
               <h3>- Contactez nous ! -</h3>
-              <div class="col-6 col-12-xsmall"> <input name="demo-name" id="demo-name"
+              <div class="col-6 col-12-xsmall"> <input name="demo-name" id="demo-name"
+
                   placeholder="Nom et prénom" type="text"> </div>
-              <div class="col-6 col-12-xsmall"> <input name="demo-email" id="demo-email"
+              <div class="col-6 col-12-xsmall"> <input name="demo-email" id="demo-email"
+
                   value="" placeholder="Email" type="email"></div>
               <div class="col-6 col-12-xsmall"><br>
               </div>
-              <div class="col-6 col-12-small"> <input id="demo-copy" name="demo-copy"
+              <div class="col-6 col-12-small"> <input id="demo-copy" name="demo-copy"
+
                   type="checkbox"> <label for="demo-copy">M'envoyer une copie
                   de mon message par mail</label> </div>
-              <div class="col-6 col-12-small"> <input id="demo-human" name="demo-human"
+              <div class="col-6 col-12-small"> <input id="demo-human" name="demo-human"
+
                   checked="checked" type="checkbox"> <label for="demo-human">Je
                   suis un humain</label> </div>
-              <div class="col-12"> <textarea name="demo-message" id="demo-message"
+              <div class="col-12"> <textarea name="demo-message" id="demo-message"
+
 placeholder="Saisissez votre message" rows="6"></textarea> </div>
               <ul class="actions">
                 <li><input value="Envoyer le message" class="primary" type="submit"></li>
