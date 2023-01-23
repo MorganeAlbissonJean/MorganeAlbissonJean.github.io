@@ -17,16 +17,16 @@
               Choisir la meilleure alimentation pour un système agricole de
               pompage d'eau - </strong> </a> </header>
         <!-- Banner -->
-        <section id="banner">
-          <div class="content"><br>
+        <section id="banner"><br>
+          <div class="content">
             <header>
-              <h1 style="width: 987px; text-align: center; margin-left: 42px;">Agriculture
+              <h1 style="width: 988px; text-align: center; margin-left: 41px;">Agriculture
                 : un programme pour trouver la meilleure alimentation en énergie
                 pour une pompe à eau</h1>
-              <p style="width: 981px; margin-left: 45px; text-align: center;">-
+              <p style="width: 988px; margin-left: 42px; text-align: center; height: 25px; margin-top: 24.3333px;">-
                 Avancement : en cours de développement -</p>
             </header>
-            <p style="text-align: center; width: 967px; margin-left: 75px;">Soucieux
+            <p style="text-align: center; width: 988px; margin-left: 41px;">Soucieux
               de faciliter la mise en place des systèmes de pompage d'eau pour
               les exploitations agricoles, notre équipe entreprend de développer
               un simulateur adapté. Celui-ci permettra in fine de savoir quel
@@ -35,11 +35,13 @@
               de sa région d'installation. </p>
             <ul class="actions">
               <li style="text-align: center;"><a href="Notreequipe.html" class="button big"
-                  style="margin-left: 451px; width: 220px;">découvrez Notre
+                  style="margin-left: 399px; width: 273px;">découvrez Notre
                   équipe</a></li>
             </ul>
           </div>
-          <span class="image object"></span> </section>
+          <span class="image object"><br>
+            <br>
+          </span> </section>
         <!-- Section -->
         <section>
           <header class="major">
