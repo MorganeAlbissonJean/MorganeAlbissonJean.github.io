@@ -18,12 +18,12 @@
               pompage d'eau - </strong> </a> </header>
         <!-- Banner -->
         <section id="banner">
-          <div class="content">
-            <header> <br>
+          <div class="content"><br>
+            <header>
               <h1 style="width: 987px; text-align: center; margin-left: 42px;">Agriculture
                 : un programme pour trouver la meilleure alimentation en énergie
                 pour une pompe à eau</h1>
-              <p style="width: 1008px; margin-left: 61px; text-align: center;">-
+              <p style="width: 981px; margin-left: 45px; text-align: center;">-
                 Avancement : en cours de développement -</p>
             </header>
             <p style="text-align: center; width: 967px; margin-left: 75px;">Soucieux
@@ -31,7 +31,7 @@
               les exploitations agricoles, notre équipe entreprend de développer
               un simulateur adapté. Celui-ci permettra in fine de savoir quel
               type d'alimentation sera le plus efficace pour faire fonctionner
-              cette pompe au mieux en termes de rendement, et ceci, en fonction
+              cette pompe au mieux, en termes de rendement, et ceci, en fonction
               de sa région d'installation. </p>
             <ul class="actions">
               <li style="text-align: center;"><a href="Notreequipe.html" class="button big"
