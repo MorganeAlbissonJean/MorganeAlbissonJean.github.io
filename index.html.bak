@@ -171,7 +171,8 @@
               <p>Découvrez l'intégralité de nos recherches et suivez
                 l'avancement de notre simulateur en accédant à notre dépôt
                 Github dédié à ce projet !</p>
-              <a href="Groupeselectrogenes.html" class="button">Accéder à github</a></article>
+              <a href="https://github.com/Idris-AOUAMEUR/Energie-grp-7" class="button">Accéder
+                à github</a></article>
             <article>
               <h3> Contactez nous ! -</h3>
               <div class="col-6 col-12-xsmall"> <input name="demo-name" id="demo-name"
