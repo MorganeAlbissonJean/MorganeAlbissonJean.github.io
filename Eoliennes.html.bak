@@ -21,7 +21,7 @@
           <header class="main">
             <h1>Éoliennes</h1>
           </header>
-          <span class="image main"><img src="images/pic11.jpg" alt=""></span>
+          <span class="image main"><img src="../eoliennes.png" style="width: 682px; height: 402px; margin-left: 197px;"></span>
           <p>Maintenant que nous constatons l'épuisement progressif des énergies
             fossiles, les énergies renouvelables tendent de plus en plus à se
             faire une place sur le marché de l'énergie. Cependant, elles ne
