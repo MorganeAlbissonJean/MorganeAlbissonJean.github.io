@@ -97,8 +97,8 @@
           <header class="major">
             <h2>&nbsp;&nbsp; Nos recherches</h2>
           </header>
-          <div class="posts">
-            <article> <a href="#" class="image"><img src="images/pic01.jpg" alt=""></a>
+          <div class="posts"><br>
+            <article>
               <h3>Régions d'installation</h3>
               <p>Pour que notre simulateur puisse disposer d'informations au
                 sujet des possibles lieux d'installation de systèmes de pompage,
@@ -110,7 +110,8 @@
                     plus</a></li>
               </ul>
             </article>
-            <article> <a href="#" class="image"><img src="images/pic02.jpg" alt=""></a>
+            <br>
+            <article>
               <h3>Systèmes de pompage</h3>
               <p>Développer un simulateur qui fait part d'un comparatif
                 d'alimentations, c'est bien. Être informé au sujet du système à
@@ -121,7 +122,8 @@
                     plus</a></li>
               </ul>
             </article>
-            <article> <a href="#" class="image"><img src="images/pic03.jpg" alt=""></a>
+            <br>
+            <article>
               <h3>Panneaux solaires et cellules photovoltaïques</h3>
               <p>Depuis l'apparition des premiers panneaux solaires sur le
                 marché, cette technologie a eu à loisir de se développer, et de
@@ -136,7 +138,8 @@
                     savoir plus</a></li>
               </ul>
             </article>
-            <article> <a href="#" class="image"><img src="images/pic04.jpg" alt=""></a>
+            <br>
+            <article>
               <h3>Éoliennes</h3>
               <p>Les parcs éoliens couvrent de plus en plus de surface sur la
                 Terre, de nos jours. Ces installations font débat, déplaisant
@@ -148,7 +151,8 @@
                 <li><a href="Eoliennes.html" class="button">en savoir plus</a></li>
               </ul>
             </article>
-            <article> <a href="#" class="image"><img src="images/pic05.jpg" alt=""></a>
+            <br>
+            <article>
               <h3>Groupes électrogènes</h3>
               <p>Utilisés depuis bien longtemps, les groupes électrogènes sont
                 en quelque sorte la "solution facile", un sysètme d'alimentation
@@ -161,8 +165,15 @@
                     plus</a></li>
               </ul>
             </article>
+            <br>
             <article>
-              <h3>- Contactez nous ! -</h3>
+              <h3>Dépôt Github</h3>
+              <p>Découvrez l'intégralité de nos recherches et suivez
+                l'avancement de notre simulateur en accédant à notre dépôt
+                Github dédié à ce projet !</p>
+              <a href="Groupeselectrogenes.html" class="button">Accéder à github</a></article>
+            <article>
+              <h3> Contactez nous ! -</h3>
               <div class="col-6 col-12-xsmall"> <input name="demo-name" id="demo-name"
                   placeholder="Nom et prénom" type="text"> </div>
               <div class="col-6 col-12-xsmall"> <input name="demo-email" id="demo-email"
