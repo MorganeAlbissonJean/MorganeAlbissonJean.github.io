@@ -22,97 +22,45 @@
             <h1>Régions d'installation</h1>
           </header>
           <span class="image main"><img src="images/pic11.jpg" alt=""></span>
-          <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum
-            primis in faucibus. Pellentesque venenatis dolor imperdiet dolor
-            mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor
-            sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet,
-            fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit.
-            Donec urna ex, lacinia in purus ac, pretium pulvinar mauris.
-            Curabitur sapien risus, commodo eget turpis at, elementum convallis
-            elit. Pellentesque enim turpis, hendrerit.</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
-            dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora
-            torquent per conubia nostra, per inceptos himenaeos. Etiam tristique
-            libero eu nibh porttitor fermentum. Nullam venenatis erat id
-            vehicula viverra. Nunc ultrices eros ut ultricies condimentum.
-            Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae
-            dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in
-            lectus. Pellentesque habitant morbi tristique senectus et netus et
-            malesuada fames ac turpis egestas. In non lorem sit amet elit
-            placerat maximus. Pellentesque aliquam maximus risus, vel sed
-            vehicula.</p>
-          <p>Interdum et malesuada fames ac ante ipsum primis in faucibus.
-            Pellentesque venenatis dolor imperdiet dolor mattis sagittis.
-            Praesent rutrum sem diam, vitae egestas enim auctor sit amet.
-            Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien
-            risus, commodo eget turpis at, elementum convallis elit.
-            Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p>
+          <p>Puisque notre étude prend en compte trois différentes régions
+            d'installation, où le climat ambiant est différent et donc où
+            certains systèmes d'alimentation pourraient ne pas être efficaces,
+            voici quelques informations sur les trois lieux que nous avons
+            choisi de considérer : la Norvège, la France et l'Algérie. Cette
+            analyse est nécessaire afin de savoir si une installation éolienne
+            ou solaire serait efficace en ces lieux. Notons par exemple que
+            lorsque la température moyenne d'un panneau solaire, estimée à 25°C,
+            augmente d'un degré, son rendement diminue de 0,5%. </p>
           <hr class="major">
-          <h2>Interdum sed dapibus</h2>
-          <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum
-            primis in faucibus. Pellentesque venenatis dolor imperdiet dolor
-            mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor
-            sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet,
-            fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit.
-            Donec urna ex, lacinia in purus ac, pretium pulvinar mauris.
-            Curabitur sapien risus, commodo eget turpis at, elementum convallis
-            elit. Pellentesque enim turpis, hendrerit.</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
-            dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora
-            torquent per conubia nostra, per inceptos himenaeos. Etiam tristique
-            libero eu nibh porttitor fermentum. Nullam venenatis erat id
-            vehicula viverra. Nunc ultrices eros ut ultricies condimentum.
-            Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae
-            dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in
-            lectus. Pellentesque habitant morbi tristique senectus et netus et
-            malesuada fames ac turpis egestas. In non lorem sit amet elit
-            placerat maximus. Pellentesque aliquam maximus risus, vel sed
-            vehicula. Interdum et malesuada fames ac ante ipsum primis in
-            faucibus. Pellentesque venenatis dolor imperdiet dolor mattis
-            sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit
-            amet. Pellentesque leo mauris, consectetur id ipsum sit amet,
-            fersapien risus, commodo eget turpis at, elementum convallis elit.
-            Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p>
+          <h2>La Norvège</h2>
+          <p>La Norvège s'étend entre les latitudes 57°N et 78°N, ainsi, du nord
+            au sud du pays, il y a d'importantes variations de climat.</p>
+          <p>En général, en hiver les températures avoisinent les -10°C. En été,
+            les températures restent en moyenne entre 20°C et 60°C.</p>
           <hr class="major">
-          <h2>Magna etiam veroeros</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
-            dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora
-            torquent per conubia nostra, per inceptos himenaeos. Etiam tristique
-            libero eu nibh porttitor fermentum. Nullam venenatis erat id
-            vehicula viverra. Nunc ultrices eros ut ultricies condimentum.
-            Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae
-            dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in
-            lectus. Pellentesque habitant morbi tristique senectus et netus et
-            malesuada fames ac turpis egestas. In non lorem sit amet elit
-            placerat maximus. Pellentesque aliquam maximus risus, vel sed
-            vehicula.</p>
-          <p>Interdum et malesuada fames ac ante ipsum primis in faucibus.
-            Pellentesque venenatis dolor imperdiet dolor mattis sagittis.
-            Praesent rutrum sem diam, vitae egestas enim auctor sit amet.
-            Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien
-            risus, commodo eget turpis at, elementum convallis elit.
-            Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p>
+          <h2>La France (métropolitaine)</h2>
+          <p>En France, l'ensoleillement ne sera pas le même au nord et au sud
+            du territoire. Au sud, l'ensoleillement est plus important, ainsi,
+            pour une installation de panneaux solaires de puissance égale, celle
+            dans le sud produira plus d'électricité. On note par exemple, en
+            2020, 1860 heures d'ensoleillement à Lille, contre 2917 heures à
+            Marseille. </p>
           <hr class="major">
-          <h2>Lorem aliquam bibendum</h2>
-          <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum
-            primis in faucibus. Pellentesque venenatis dolor imperdiet dolor
-            mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor
-            sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet,
-            fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit.
-            Donec urna ex, lacinia in purus ac, pretium pulvinar mauris.
-            Curabitur sapien risus, commodo eget turpis at, elementum convallis
-            elit. Pellentesque enim turpis, hendrerit.</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
-            dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora
-            torquent per conubia nostra, per inceptos himenaeos. Etiam tristique
-            libero eu nibh porttitor fermentum. Nullam venenatis erat id
-            vehicula viverra. Nunc ultrices eros ut ultricies condimentum.
-            Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae
-            dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in
-            lectus. Pellentesque habitant morbi tristique senectus et netus et
-            malesuada fames ac turpis egestas. In non lorem sit amet elit
-            placerat maximus. Pellentesque aliquam maximus risus, vel sed
-            vehicula.</p>
+          <h2>L'Algérie</h2>
+          <p>Dans le désert algérien, le climat est caractérisé par son aridité,
+            et sa chaleur pendant les longs mois d'été, les températures allant
+            de 28°C à 45°C. Sur le reste du territoire, au nord, à l'est et à
+            l'ouest, la température est de 25°-26°C en été. Dans&nbsp; ces deux
+            zones, il fait environ 13,2°C en moyenne en hiver.</p>
+          <hr class="major">
+          <h2>Conclusion</h2>
+          <p>Dans le désert algérien, le climat est caractérisé par son aridité,
+            et sa chaleur pendant les longs mois d'été, les températures allant
+            de 28°C à 45°C. Sur le reste du territoire, au nord, à l'est et à
+            l'ouest, la température est de 25°-26°C en été. Dans&nbsp; ces deux
+            zones, il fait environ 13,2°C en moyenne en hiver.</p>
+          <p><br>
+          </p>
           <p style="text-align: center; height: 37px; margin-top: 21px;"><a href="index.html"
               class="button primary icon solid fa-arrow">Retour à l'accueil</a></p>
         </section>
