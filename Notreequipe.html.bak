@@ -22,15 +22,14 @@
             <h1>Découvrez notre équipe</h1>
           </header>
           <span class="image main"><img src="images/pic11.jpg" alt=""></span><br>
-          <p> Notre équipe est entièrement constituée d'élèves en première année
-            de Master. Nous n'avons cependant pas tous eu le même parcours
+          <p> Notre équipe est entièrement constituée d'élèves issus de la même
+            promotion. Nous n'avons cependant pas tous eu le même parcours
             scolaire avant de débuter ce cursus. </p>
           <hr class="major">
           <h2>Morgane ALBISSON--JEAN </h2>
-          <p>Élève en première année de Master d'Automatique et Robotique, issue
-            d'une Licence de Sciences Pour l'Ingénieur parcours Mécatronique,
-            obtenue à l'École Universitaire de Physique et d'Ingénierie de
-            Clermont-Ferrand.</p>
+          <p>Élève en première année de Master, issue d'une Licence de Sciences
+            Pour l'Ingénieur parcours Mécatronique à l'École Universitaire de
+            Physique et d'Ingénierie de Clermont-Ferrand.</p>
           <hr class="major">
           <h2>Idris AOUAMEUR</h2>
           <p>Élève en première année de Master, issu d'une deuxième année de
@@ -42,24 +41,15 @@
             M'Hamed Bougara Boumerdès en Algérie.</p>
           <hr class="major">
           <h2>Gaëtan LEMBERT</h2>
-          <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum
-            primis in faucibus. Pellentesque venenatis dolor imperdiet dolor
-            mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor
-            sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet,
-            fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit.
-            Donec urna ex, lacinia in purus ac, pretium pulvinar mauris.
-            Curabitur sapien risus, commodo eget turpis at, elementum convallis
-            elit. Pellentesque enim turpis, hendrerit.</p>
+          <p>Élève en première année de Master, issu d'une Licence de Sciences
+            Pour l'Ingénieur parcours Électronique Électrotechnique et
+            Automatique à l'École Universitaire de Physique et d'Ingénierie de
+            Clermont-Ferrand.</p>
           <hr class="major">
           <h2>Adam Djerou MAHAMAT NOUR</h2>
-          <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum
-            primis in faucibus. Pellentesque venenatis dolor imperdiet dolor
-            mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor
-            sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet,
-            fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit.
-            Donec urna ex, lacinia in purus ac, pretium pulvinar mauris.
-            Curabitur sapien risus, commodo eget turpis at, elementum convallis
-            elit. Pellentesque enim turpis, hendrerit.</p>
+          <p>___</p>
+          <p><br>
+          </p>
           <p style="text-align: center; height: 37px; margin-top: 21px;"><a href="index.html"
               class="button primary icon solid fa-arrow">Retour à l'accueil</a></p>
         </section>
